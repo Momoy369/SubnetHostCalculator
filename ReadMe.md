@@ -1,11 +1,11 @@
 # Subnet Host Calculator
 
-** Use Python 3.12 or newer. **
+**Use Python 3.12 or newer.**
 
 ## Command in Terminal or Command Prompt
 
-- python3 SubnetHostCalc.py \*
+_python3 SubnetHostCalc.py_
 
-- Enter Network/host ip. E.g: 192.168.0.1/24
+_Enter Network/host ip. E.g: 192.168.0.1/24_
 
-** You can export the result to file .txt and .csv **
+**You can export the result to file .txt and .csv**
